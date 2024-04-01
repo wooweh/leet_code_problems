@@ -4,11 +4,33 @@
 
 "Practice makes better" ~ homsapien cognition
 
-### Solution structure:
+### Solution template:
 
-1. Inputs
-2. Outputs
-3. Constraints
-4. Psudo-code
-5. Code
+    # 000. Problem Name
+    ## Inputs
+
+
+    ## Outputs
+
+    
+    ## Constraints
+
+    
+    ## Psudo-code
+
+        function name() {
+
+        }
+
+    ## Code
+
+    ```js
+    function name() {
+
+    }
+    ```
+
+    ## Submission
+
+
 
