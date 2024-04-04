@@ -8,7 +8,7 @@
 
 ## Outputs
 
-    Array of numbers - Merge nums1 and nums2 sorted in ascending order.
+    Merged nums1 and nums2 sorted in ascending order
 
     Array must not be returned. Array must be assigned to nums1.
 

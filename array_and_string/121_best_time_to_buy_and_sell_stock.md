@@ -5,10 +5,11 @@
 
 ## Outputs
 
-    Maximum positive difference between any two elements, else 0 
+    Maximum positive difference between any two elements, else 0 - integer
 
 ## Constraints
 
+    1 buy and 1 sell
     1 <= prices.length <= 10^5
     0 <= prices[i] <= 10^4
 
