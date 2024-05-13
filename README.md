@@ -12,7 +12,7 @@ There is a flat folder structure with the problem catagories as the folder names
 
 ### Solution template
 
-Each problem is documented using the below .md template:
+Each problem is documented using the below .md template as set out in the book by S Skiena; The Algorithm Design Manual:
 
     # 000. Problem Name
     ## Inputs
