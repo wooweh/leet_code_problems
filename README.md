@@ -1,6 +1,6 @@
 # leet_code_problems
 
-"Practice with steady breathing like tea leaves with hot water." ~ homsapien cognition
+"Practice with steady breathing like tea leaves with hot water." ~ ...
 
 ## Top Ineterview 150
 
