@@ -4,7 +4,7 @@
 
 ## Top Ineterview 150
 
-This repo documents the workings and solutions for the leet code problems listed in the [Top Ineterview 150](https://leetcode.com/studyplan/top-interview-150/).
+This repo documents my ongoing workings and solutions for the leet code problems listed in the [Top Ineterview 150](https://leetcode.com/studyplan/top-interview-150/).
 
 ### Folder structure
 
